@@ -1,0 +1,5 @@
+C:\Users\Utilisateur\Desktop\Projects\c#\ryeSH\ryeSh\ryeSh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\c#\ryeSH\ryeSh\ryeSh\bin\Debug\RyeShell.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\ryeSH\ryeSh\ryeSh\bin\Debug\RyeShell.pdb
+C:\Users\Utilisateur\Desktop\Projects\c#\ryeSH\ryeSh\ryeSh\obj\x86\Debug\RyeShell.exe
+C:\Users\Utilisateur\Desktop\Projects\c#\ryeSH\ryeSh\ryeSh\obj\x86\Debug\RyeShell.pdb
